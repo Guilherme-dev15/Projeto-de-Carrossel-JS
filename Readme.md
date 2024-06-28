@@ -17,3 +17,16 @@ Este projeto é um carrossel simples e dinâmico construído usando HTML, CSS e 
 - HTML
 - CSS
 - JavaScript
+
+## Preview
+
+### Desktop
+
+![Preview Desktop](./Desing/preview/Macbook-Air-1559x975.png)
+
+### Mobile
+
+![Preview Mobile](./Desing/preview/iPhone-14-Pro-Max-430x1251.png)
+
+
+### [Preview Project](https://guilherme-dev15.github.io/Projeto-de-Carrossel-JS/)
